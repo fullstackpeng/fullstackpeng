@@ -2,7 +2,7 @@
 
 很高兴在这个平台跟大家一起沟通。
 
-大家可以通过 [鹏的归宿](fullstackpeng.github.io) 这个网站链接访问我的技术博客。
+大家可以通过 [鹏的归宿](https://fullstackpeng.github.io) 这个网站链接访问我的技术博客。
 <!--
 **fullstackpeng/fullstackpeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
